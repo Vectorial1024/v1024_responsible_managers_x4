@@ -10,8 +10,8 @@ Apparently, your stations are never profitable. I say "apparently" because you w
 ![Meme/skit of the original Responsible Managers](https://steamuserimages-a.akamaihd.net/ugc/964220282100047391/9333B1D32713A85A871E1C60C82A82A3286E1D4D/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
 
 > In case the image failed to load:
-> 
-> ```
+
+```
 [Energy Array] At your service Sir.
 [Ren Otani] Show me your account, please.
 [Betty] Account of manager: 19562318 Cr (Translator Note: XR Energy Cell ave price 5 Cr @; ave revenue of full station without secondary resources (8 * 8400 * 5) approx 336000 Cr/hour; this indicates approx 58 hours of unreported revenue)
