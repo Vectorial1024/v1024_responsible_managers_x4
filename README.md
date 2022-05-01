@@ -25,7 +25,7 @@ Apparently, your stations are never profitable. I say "apparently" because you w
 
 In X Rebirth, player-to-player trading will actually move credits between Manager accounts, but such trading will not trigger the budget self-check procedure: whenever the money floats above 150% of the budget, transfer the surplus (compared to the budget) back to the player. The original Responsible Managers fixed that, with a bit of extra effort made on Energy Array stations since they have 0 budget (they somehow do not consider secondary wares).
 
-In X4 Foundations, the same situation happens again, yet the cause is currently unknown. This is perhaps the reason why mods like [Standalone Station Manager Credit Transfer](https://www.nexusmods.com/x4foundations/mods/270/) exist in the first place.
+In X4 Foundations, the same situation happens again, yet the cause is currently unknown. This is perhaps the reason why mods like [Standalone Station Manager Credit Transfer](https://www.nexusmods.com/x4foundations/mods/270/) exist in the first place. However (e.g.) I really dislike the behavior of Standalone Station Manager Credit Transfer where they would keep 1M Cr at every station for no reason, even when the budget is clearly below 1M Cr. This makes early game extra hard.
 
 ## Logic and Pseudo code
 The logic of this mod is adapted from the similar feature from X: Rebirth. All credits of the algorithm should go back to EgoSoft. I am here only to show you that such algorithm exists.
