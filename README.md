@@ -14,7 +14,9 @@ Apparently, your stations are never profitable. I say "apparently" because you w
 ```
 [Energy Array] At your service Sir.
 [Ren Otani] Show me your account, please.
-[Betty] Account of manager: 19562318 Cr (Translator Note: XR Energy Cell ave price 5 Cr @; ave revenue of full station without secondary resources (8 * 8400 * 5) approx 336000 Cr/hour; this indicates approx 58 hours of unreported revenue)
+[Betty] Account of manager: 19562318 Cr
+  (Translator Note: XR Energy Cell ave price 5 Cr @; ave revenue of full station without secondary resources (8 * 8400 * 5) approx 336000 Cr/hour;
+  this indicates approx 58 hours of unreported revenue)
 [Yisha Tarren] Why aren't you sending in Credits? You know we are a little bit short -
 [Energy Array] I can reassure you that I am working according to the Manual here.
 [Ren Otani] bruh
