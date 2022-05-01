@@ -27,6 +27,14 @@ In X Rebirth, player-to-player trading will actually move credits between Manage
 
 In X4 Foundations, the same situation happens again, yet the cause is currently unknown. This is perhaps the reason why mods like [Standalone Station Manager Credit Transfer](https://www.nexusmods.com/x4foundations/mods/270/) exist in the first place. However (e.g.) I really dislike the behavior of Standalone Station Manager Credit Transfer where they would keep 1M Cr at every station for no reason, even when the budget is clearly below 1M Cr. This makes early game extra hard.
 
+## What Is and What Is Not
+
+Gotta set the expectations right! Currently:
+
+- WILL transfer manager surplus back to your account at reasonable timing
+- WILL NOT transfer those surplus to any builder budgets; YOU decide which plot gets the money first
+- (Potential future update) WILL NOT transfer surplus from builder budgets back to your account
+
 ## Logic and Pseudo code
 The logic of this mod is adapted from the similar feature from X: Rebirth. All credits of the algorithm should go back to EgoSoft. I am here only to show you that such algorithm exists.
 
