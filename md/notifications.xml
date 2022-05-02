@@ -1,0 +1,6 @@
+<diff>
+    <!-- Use the max budget for calculating profits -->
+    <!-- Originally this also includes productionmoney, but apparently productionmoney is way higher than maxbudget, abd no one knows the purpose of productionmoney -->
+    <!-- This allows stations to send in profits according to the max budget; restores sanity to players. -->
+    <replace sel="//cue=[@name='PlayerOwnedMoneyUpdated']/conditions/set_value[@name='$effectivemaxbudget']/@exact">event.object.maxbudget</replace>
+</diff>
